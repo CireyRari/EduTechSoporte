@@ -1,0 +1,15 @@
+com\Ticket\TSoporte\TSoporteApplication.class
+com\Ticket\TSoporte\repository\TicketRepository.class
+com\Ticket\TSoporte\controller\TicketController.class
+com\Ticket\TSoporte\service\TicketService.class
+com\Ticket\TSoporte\service\TecnicoService.class
+com\Ticket\TSoporte\model\Ticket.class
+com\Ticket\TSoporte\util\TecnicoModelAssembler.class
+com\Ticket\TSoporte\model\Tecnico.class
+com\Ticket\TSoporte\repository\TecnicoRepository.class
+com\Ticket\TSoporte\util\TicketModelAssembler.class
+com\Ticket\TSoporte\controller\TecnicoController.class
+com\Ticket\TSoporte\filter\GatewayAccessFilter.class
+com\Ticket\TSoporte\controller\TestDataController.class
+com\Ticket\TSoporte\controller\ValidacionHandler.class
+com\Ticket\TSoporte\util\DataLoader.class
